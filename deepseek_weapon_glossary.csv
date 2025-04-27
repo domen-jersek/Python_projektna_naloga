@@ -1,0 +1,25 @@
+ID,Name,Type,Category,Description,Quantity,Blast_Radius_Lethal (m),Blast_Radius_Heavy_Damage (m),Blast_Radius_Moderate_Damage (m)
+1,100 GP,BOMB,General Purpose Bomb,100 lb general purpose,1,50-100,20-30,80-120
+2,1000 G,BOMB,Megaboller flash powder bomb,1000 g BKS,2,5-10,2-5,Oct-15
+3,1000LB GP M-65,BOMB,An-M65,1000 lb general purpose,12776,300-400,50-100,200-300
+4,1000LB MK-83,BOMB,Mark 83 bomb,1000 lb none guidence general purpose bomb,15522,300-400,50-100,200-300
+5,1000LB SAP M59,BOMB,AN-M59,1000 lb semi-armor piercing bomb,454,200-300,30-50,150-200
+7,100LB GP M-30,BOMB,AN-M30,100 lb general purpose,4610,50-100,15-25,60-90
+22,2000LB MK-84,BOMB,Mk-84,free-fall, nonguided general purpose bomb 2,400-500,8403,400-500
+24,250LB M-57,BOMB,AN-M57,250 Lb General Purpose bomb,15757,100-150,25-40,100-150
+25,250LB MK-81,BOMB,Mk 81,"250ælb general purpose bomb (nicknamed ""Firecracker"")",82691,80-120,20-30,70-100
+29,3000LB M-118,BOMB,M-118,air-dropped general-purpose or demolition bomb,2675,500-600,100-150,400-500
+40,500LB GP M-64,BOMB,AN-M64,500 lb general purpose bomb filled with TNT or Amatol,41281,150-200,30-50,120-180
+41,500LB GP MK-82,BOMB,Mk 82,500 lb general purpose bomb containing 192 lb of Tritonal high explosive,408323,150-200,30-50,120-180
+46,750 GP,BOMB,M-117,750 lb general purpose bomb,29653,200-250,40-60,150-220
+48,750LB GP M-117,BOMB,M-117,750 lb general purpose bomb,150430,200-250,40-60,150-220
+86,BLU82B LZ CLR DEVICE,BOMB,BLU-82/B,"15000 lb) general-purpose blast bomb (nicknamed ""Big Blue 82"") is one of the largest non-nuclear bombs ever developed",1,800-1000,200-300,600-800
+182,M-3,BOMB,Mark 83 bomb,1000 lb none guidence general purpose bomb,30613,300-400,50-100,200-300
+204,MK 82 GP BOMB (500),BOMB,MK 82,free-fall, nonguided general purpose (GP) 500-pound bomb,30-50,150-200,30-50
+205,MK 82 GP BOMB (500) LD,BOMB,MK 82,free-fall, nonguided general purpose (GP) 500-pound bomb,30-50,150-200,30-50
+211,MK-20 AN TANK/MTL,BOMB,Mk 20,Anti-Tank Cluster Bomb,4466,75-100,N/A,150-200
+233,MK81 GP BOMB (250),BOMB,MK 81,general-purpose low-drag, high-explosive filled bombs,20-30,80-120,20-30
+234,MK82 B,BOMB,MK 82,free-fall, nonguided general purpose (GP) 500-pound bomb,30-50,150-200,30-50
+235,MK82 GP BOMB (500) HD,BOMB,MK 82,free-fall, nonguided general purpose (GP) 500-pound bomb,30-50,150-200,30-50
+241,MK83 GP BOMB (1000),BOMB,MK 83,free-fall, nonguided general purpose (GP) 1,300-400,2020,300-400
+246,MK84 GP BOMB (2000),BOMB,Mk 84,2,000-pound hard target penetrator bomb,70-120,400-500,70-120
